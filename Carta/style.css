@@ -1,0 +1,49 @@
+.container-texto {
+  border: #3295e9 solid 4px;
+  margin-left: 3px;
+  font-family: 'Courier New', Courier, monospace;
+  max-width: 25rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.local {
+  display: flex;
+  justify-content: center;
+  border: #d3ffce solid 3px;
+  align-items: center;
+  max-width: 12.5rem;
+  margin: 10px auto;
+}
+
+.saudacao {
+  display: flex;
+  border: #d3ffce solid 3px;
+  max-width: 9.5rem;
+  margin-left: 10px;
+  padding-left: 5px;
+}
+
+.mensagem {
+  display: flex;
+  border: #d3ffce solid 3px;
+  margin-left: 10px;
+  padding-left: 5px;
+  max-width: 22rem;
+}
+
+.despedida {
+  display: flex;
+  border: #d3ffce solid 3px;
+  max-width: 7.5rem;
+  margin-left: 10px;
+  padding-left: 5px;
+}
+
+.assinatura {
+  display: flex;
+  border: #d3ffce solid 3px;
+  margin-left: 10px;
+  padding-left: 5px;
+  max-width: 5rem;
+}
