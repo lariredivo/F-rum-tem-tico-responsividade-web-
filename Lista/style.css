@@ -1,0 +1,27 @@
+.ul-normal {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.li-normal {
+  border: solid 2px rgb(222, 215, 215);
+  padding: 8px;
+  color: rgb(42, 147, 232);
+}
+
+.ul-hover{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.li-hover {
+  border: solid 2px rgb(222, 215, 215);
+  padding: 8px;
+  color: rgb(42, 147, 232);
+}
+
+.li-hover:hover{
+  background-color: rgb(219, 214, 214);
+}
